@@ -16,3 +16,4 @@ for element in article:
         print a.text
         print "http://jkssb.nic.in/" + a['href']
 
+
